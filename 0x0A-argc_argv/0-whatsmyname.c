@@ -7,9 +7,10 @@
  *
  * Return: Always o.
  */
-int main(int __attribute__((__unused__)) argc, char *argv[])
+int main(int argc, char *argv[])
 {
-	printf("%s\n", argv[0]);
+	(void) argc;
 
+	printf("%s\n", argv[0]);
 	return (0);
 }
