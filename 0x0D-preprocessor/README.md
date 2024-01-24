@@ -1,1 +1,1 @@
-Solution to task on pre-processor
+Solution to task on preprocessor
